@@ -30,5 +30,6 @@ Segui os seguintes passos:
 6. Colei o texto escolhido, cliquei na caixa e depois em run.
 
 7. Veja o resultado:
+
 ![image](https://github.com/barbarawo/language-studio-azure/assets/162802729/2f110a06-bd89-4148-8a69-51ac98c908bc)
 
